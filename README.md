@@ -1,7 +1,7 @@
 sc_erl_datasets
 ===============
 
-Various datasets that my other erlang garbage uses, because repeatability :rage2:
+Various datasets that my other erlang garbage uses, because centralization :rage2:
 
 Currently includes:
 

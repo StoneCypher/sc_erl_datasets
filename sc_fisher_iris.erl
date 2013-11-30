@@ -1,4 +1,10 @@
 
+% http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+
+
+
+
+
 -module(sc_fisher_iris).
 
 
@@ -7,9 +13,32 @@
 
 -export([
 
+    class/0,
+    labels/0,
     data/0
 
 ]).
+
+
+
+
+
+class() ->
+
+    "Species".
+
+
+
+
+
+labels() ->
+
+    [   "Sepal length, cm",
+        "Sepal width, cm",
+        "Petal length, cm",
+        "Petal width, cm",
+        "Species"
+    ].
 
 
 
