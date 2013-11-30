@@ -12,4 +12,4 @@ Currently includes:
 Polemic :neckbeard:
 -------------------
 
-`htstub` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
+`sc_erl_datasets` is MIT licensed, because viral licenses and newspeak language modification are evil.  Free is ***only*** free when it's free for everyone.
