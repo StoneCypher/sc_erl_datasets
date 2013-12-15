@@ -5,7 +5,8 @@ Various datasets that my other erlang garbage uses, because centralization :rage
 
 Currently includes:
 
-* [Fisher's Iris](https://github.com/StoneCypher/sc_erl_datasets/blob/master/sc_fisher_iris.erl) dataset
+* [Fisher's Iris](https://github.com/StoneCypher/sc_erl_datasets/blob/master/src/sc_fisher_iris.erl) dataset
+* [Anscombe's Quartet](https://github.com/StoneCypher/sc_erl_datasets/blob/master/src/sc_anscombes_quartet.erl) dataset
 
 
 
