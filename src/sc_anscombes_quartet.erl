@@ -1,4 +1,11 @@
 
+% http://en.wikipedia.org/wiki/Anscombe%27s_quartet
+% http://eagereyes.org/criticism/anscombes-quartet
+
+
+
+
+
 -module(sc_anscombes_quartet).
 
 
