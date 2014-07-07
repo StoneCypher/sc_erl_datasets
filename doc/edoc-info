@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,sc_erl_datasets}.
+{packages,[]}.
+{modules,[sc_anscombes_quartet,sc_fisher_iris]}.
